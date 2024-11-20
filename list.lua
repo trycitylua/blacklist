@@ -3,7 +3,7 @@ return {
         name = "sanji.design",
         ids = {
             "hwid:123456789abcdef",
-            "discord:1215767538768810059",
+            "discord:215767538768810059",
             "steam:110000112345678",
             "license:abcdef1234567890"
         }
