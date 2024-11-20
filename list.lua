@@ -4,7 +4,7 @@ return {
         name = "Lisa Musterfrau",
         ids = {
             "hwid:abcdef987654321",
-            "discord:123456789012345678",
+            "discord:1198290385349398538",
             "steam:110000112987654",
             "license:fedcba0987654321"
         }
