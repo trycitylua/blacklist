@@ -14,7 +14,7 @@ return {
         name = "John Doe",
         ids = {
             "hwid:987654321abcdef",
-            "discord:543210987654321",
+            "discord:1215767538768810059",
             "steam:110000113456789",
             "license:123456abcdef9876"
         }
